@@ -1,0 +1,179 @@
+
+header div {
+    height: 80px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+header {
+    padding-bottom: -90px;
+}
+
+hr {
+    border-top: 2px solid lightgrey;
+    opacity: 60%;
+    width: 560px;
+    margin-bottom: 60px;
+    margin-top: 60px;
+
+}
+
+body {
+    
+    margin-left: 40px;
+    margin-right: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #172E62;
+}
+
+p {
+    color: #172E62;
+    font-size: 16px;
+    font-family: Arial;
+    text-align: left;
+    font: normal normal normal 16px/24px Arial;
+    letter-spacing: 0px;
+    color: #172E62;
+    opacity: 1;
+}
+
+h2 {
+    text-align: left;
+    font: normal normal bold 21px/28px Arial;
+    letter-spacing: 0px;
+    color: #172E62;
+    opacity: 1;
+}
+
+button {
+    height: 45px;
+    width: 139px;
+    background-color: #4057E3;
+    border-radius: 6px;
+    border: 0px;
+    font-style: arial;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+}
+
+
+.ignitisFirst {
+    padding: 0;
+    height: 300px;
+    width: 560px;
+}
+
+.ignitisSecond {
+    height: 300px;
+    width: 560px;
+}
+
+.ignitisThird {
+    height: 382px;
+    width: 560px;
+}
+
+.firstInfoField {
+    height: 234px;
+    width: 560px;
+}
+
+.secondInfoField {
+    height: 181px;
+    width: 560px;
+}
+
+.thirdInfoField {
+    height: 280px;
+    width: 560px;
+}
+
+a {
+    text-align: left;
+    font: normal normal bold 16px Arial;
+    color: #4057E3;
+
+}
+
+.textA {
+    color: #4057E3;
+    text-align: left;
+    font: normal normal bold 16px Arial;
+    letter-spacing: 0px;
+    opacity: 1;
+    margin: 5px;
+}
+
+.link-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.arrow-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #000;
+    margin-bottom: 0;
+}
+
+.arrow-link img {
+    margin-right: 10px;
+}
+
+.last {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.endOfPage {
+    width: 560px;
+    height: 135.54px;
+    text-align: center
+}
+
+.bottomText {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.bottomImg {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.bottomImgs img {
+    margin: 0 5px;
+}
+
+.botom {
+    text-align: center;
+    font: normal normal normal 14px Arial;
+    letter-spacing: 0px;
+    color: #172E62;
+    opacity: 1;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+
+footer {
+    display: flex;
+    align-items: center;
+    height: 110px;
+    width: 640px;
+    background-color: #F4F5F7
+}
+
+footer p {
+    text-align: center;
+    font: normal normal normal 13px/20px Arial;
+    letter-spacing: 0px;
+    color: #B6BCCB;
+    opacity: 1;
+}
